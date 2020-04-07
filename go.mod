@@ -1,4 +1,4 @@
-module github.com/openshift/cluster-image-registry-operator
+module github.com/azopat/registry
 
 go 1.13
 
